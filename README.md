@@ -5,7 +5,6 @@ This Power BI dashboard analyzes the recruitment process using key hiring metric
 
 ## Tools Used
 - Power BI
-- Excel
 - DAX
 
 ## KPIs
@@ -20,9 +19,8 @@ This Power BI dashboard analyzes the recruitment process using key hiring metric
 - Recruitment KPIs
 - Hiring analysis
 - Candidate source analysis
-- Candidate status distribution
 
 ## Key Insights
 - Tracks hiring performance.
 - Identifies the most effective recruitment sources.
-- Helps monitor the recruitment pipeline.
+- Naukri was one of the recruitment sources contributing to candidate applications in the selected data.
